@@ -7,7 +7,7 @@
 ![alt text](feature_image.png)
 
 <br/>
-### Deployed on GitHub Pages https://chammi-hansana.github.io/Modern-Web-Design/
+- Deployed on GitHub Pages https://chammi-hansana.github.io/Modern-Web-Design/
 
 
 
